@@ -1,0 +1,4 @@
+baseURL = 'https://grantelder.com/'
+languageCode = 'en-us'
+title = 'Grant Elder'
+theme = 'ananke'
